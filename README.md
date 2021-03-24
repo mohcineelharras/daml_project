@@ -4,6 +4,10 @@ Data :
 
 http://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset
 
+
+
+
+
 Bibliographie :
 
 https://towardsdatascience.com/implement-expectation-maximization-em-algorithm-in-python-from-scratch-f1278d1b9137
